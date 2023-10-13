@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://github.com/GayathriHG/KAAPI_MANE-skillanalyse/",
   
   "scripts": {
     "dev": "vite",
@@ -16,6 +17,5 @@
     "vite": "^4.4.5"
   }
 }
-
 
 
