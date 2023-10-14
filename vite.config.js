@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base:"/skillanalyse/"
+  base:"/KAAPI_MANE-skillanalyse/"
 })
