@@ -14,7 +14,7 @@ Kaapi Mane
 
 ## Description
 
-I have created a landing page for a coffee shop using Tailwindcss and Vite frameworks. The task was assigned by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky) as part of the internship as a Skill Analysis task.
+I have created a landing page for a coffee shop using Tailwindcss . The task was assigned by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky) as part of the internship as a Skill Analysis task.
 
 ## Demo
 You can access it through the following link: [view site](https://gayathrihg.github.io/KAAPI_MANE-skillanalyse/contact-us.html)
